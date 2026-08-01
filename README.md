@@ -113,8 +113,8 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Angelsistemas7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelsistemas7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165em" src="https://github-readme-stats-ten-inky-rufdfb6nwx.vercel.app/api?username=Angelsistemas7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats-ten-inky-rufdfb6nwx.vercel.app/api/top-langs/?username=Angelsistemas7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelsistemas7&theme=tokyonight&hide_border=true" />
 
@@ -126,6 +126,6 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-angelacero_sistemas%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelacero_sistemas@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-angelacero__sistemas%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelacero_sistemas@hotmail.com)
 
 </div>
