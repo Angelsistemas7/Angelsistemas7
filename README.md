@@ -91,9 +91,9 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **💜 VFriend (Yuko)** | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
-| **⚡ Heren Godot MCP (LocalPower)** | Servidor MCP de alto rendimiento para Godot Engine 4.x: permite a agentes de IA controlar proyectos Godot en vivo (~20ms por operación) vía WebSocket. | Python |
-| **🏰 Albion Multi App** | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
+| **💜 VFriend** | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
+| **⚡ LocalPower** | Servidor MCP de alto rendimiento para Godot Engine 4.x: permite a agentes de IA controlar proyectos Godot en vivo (~20ms por operación) vía WebSocket. | Python |
+| **🏰 Albion World** | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
 | **🧠 Alicization** | Sistema experimental de agentes con mente propia (personalidad OCEAN, emociones, memoria, cognición) donde el comportamiento social emerge sin scriptearse. | Python |
 | **⚽ FutureSport** | Motor de predicciones deportivas con modelo propio (Dixon-Coles + Elo, decaimiento temporal, xG, fatiga, clima, lesiones, valor de plantilla), 26+ sesiones de desarrollo iterativo, **340+ tests**, backtesting real contra datos históricos de 8 ligas, y dashboard con armador de apuestas, comparador y auditoría pública de aciertos por mercado. Clean Architecture + DDD. | Python · Dixon-Coles/Elo · sqlite · scraping (ESPN/Understat/Transfermarkt) |
 
@@ -126,6 +126,6 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dayialfonsoreales%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayialfonsoreales@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dayialfonsoreales%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelacero_sistemas@gmail.com)
 
 </div>
