@@ -64,7 +64,8 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[🗺️ Error Atlas](https://github.com/Angelsistemas7/error-atlas)** | Wikipedia técnica de errores de desarrollo: pegas el mensaje y encuentras causas conocidas y soluciones ordenadas por probabilidad, con contexto real de framework/versión — en vez de otro hilo de foro a medio responder. En construcción activa, en PRs pequeños y documentados. | Next.js 16 · TypeScript · Tailwind · Fuse.js |
+| **[🗺️ Error Atlas](https://github.com/Angelsistemas7/error-atlas)** | Wikipedia técnica de errores de desarrollo: pegas el mensaje y encuentras causas conocidas y soluciones ordenadas por probabilidad, con contexto real de framework/versión, issues/PRs reales de GitHub vinculados en vivo, y un CLI propio. En construcción activa, en PRs pequeños y documentados. | Next.js 16 · TypeScript · Tailwind · Fuse.js |
+| **[🌌 DevAtlas](https://github.com/Angelsistemas7/devatlas)** | Infraestructura abierta de conocimiento para developers: un formato compartido (`AtlasEntry`) para que distintos "atlas" temáticos (errores, vulnerabilidades, arquitectura...) se construyan sobre la misma base. Error Atlas es el primer módulo real. | Diseño de esquema · Markdown + JSON |
 
 ### 🌍 Impacto social
 
