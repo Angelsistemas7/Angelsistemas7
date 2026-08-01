@@ -64,48 +64,48 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[🗺️ Error Atlas](https://github.com/Angelsistemas7/error-atlas)** | Wikipedia técnica de 22 errores de desarrollo curados a mano: causas y soluciones ordenadas por probabilidad, issues/PRs reales de GitHub vinculados en vivo, **servidor MCP** para consultarlo desde Claude/Cursor, CLI propio, y un bot semanal (GitHub Actions) que propone nuevas fuentes vía PR — nunca automerge. En construcción activa, en PRs pequeños y documentados. | Next.js 16 · TypeScript · Tailwind · Fuse.js · MCP |
-| **[🌌 DevAtlas](https://github.com/Angelsistemas7/devatlas)** | Infraestructura abierta de conocimiento para developers: un formato compartido (`AtlasEntry`) para que distintos "atlas" temáticos (errores, vulnerabilidades, arquitectura...) se construyan sobre la misma base. Error Atlas es el primer módulo real. | Diseño de esquema · Markdown + JSON |
+| **[🗺️ Error Atlas](https://github.com/Angelsistemas7/error-atlas)** 🌐 público | Wikipedia técnica de 22 errores de desarrollo curados a mano: causas y soluciones ordenadas por probabilidad, issues/PRs reales de GitHub vinculados en vivo, **servidor MCP** para consultarlo desde Claude/Cursor, CLI propio, y un bot semanal (GitHub Actions) que propone nuevas fuentes vía PR — nunca automerge. En construcción activa, en PRs pequeños y documentados. | Next.js 16 · TypeScript · Tailwind · Fuse.js · MCP |
+| **[🌌 DevAtlas](https://github.com/Angelsistemas7/devatlas)** 🌐 público | Infraestructura abierta de conocimiento para developers: un formato compartido (`AtlasEntry`) para que distintos "atlas" temáticos (errores, vulnerabilidades, arquitectura...) se construyan sobre la misma base. Error Atlas es el primer módulo real. | Diseño de esquema · Markdown + JSON |
 
 ### 🌍 Impacto social
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[🆘 El Mundo Te Busca](https://github.com/Angelsistemas7/ElMundo-Te-Busca)** | Plataforma ciudadana sin fines de lucro para localizar personas desaparecidas y coordinar ayuda tras el terremoto de Venezuela 2026. Registro de personas, búsqueda avanzada, verificación anti-abuso, puntos de ayuda. | Next.js 15 · Supabase · Tailwind |
-| **🗳️ Ojo al Voto (SafeVote)** | Auditoría ciudadana de las actas E-14 de la elección presidencial de Colombia 2026: descarga las actas públicas, las lee con IA (Qwen2.5-VL) y señala inconsistencias aritméticas para revisión ciudadana, sobre **121.041 actas reales**. | Python · IA/OCR · Next.js · NestJS · PostgreSQL |
-| **🐾 AdoptME** | App social de adopción y mascotas perdidas: mapa en vivo, negocios/veterinarias, gamificación, sistema de puntos verificado por compras reales (QR de un solo uso + GPS), grupos y feed social. | Expo / React Native · Firebase · MapLibre |
-| **🚨 CrimenAI Colombia** | Dashboard táctico de criminalidad con datos reales de datos.gov.co/SIEDCO — 1.122 municipios, drill-down por comuna, histórico 2003–2026. | JS · Leaflet · TopoJSON · GitHub Actions |
+| **[🆘 El Mundo Te Busca](https://github.com/Angelsistemas7/ElMundo-Te-Busca)** 🌐 público | Plataforma ciudadana sin fines de lucro para localizar personas desaparecidas y coordinar ayuda tras el terremoto de Venezuela 2026. Registro de personas, búsqueda avanzada, verificación anti-abuso, puntos de ayuda. | Next.js 15 · Supabase · Tailwind |
+| **🗳️ Ojo al Voto (SafeVote)** 🔒 privado (local) | Auditoría ciudadana de las actas E-14 de la elección presidencial de Colombia 2026: descarga las actas públicas, las lee con IA (Qwen2.5-VL) y señala inconsistencias aritméticas para revisión ciudadana, sobre **121.041 actas reales**. | Python · IA/OCR · Next.js · NestJS · PostgreSQL |
+| **🐾 AdoptME** 🔒 privado (local) | App social de adopción y mascotas perdidas: mapa en vivo, negocios/veterinarias, gamificación, sistema de puntos verificado por compras reales (QR de un solo uso + GPS), grupos y feed social. | Expo / React Native · Firebase · MapLibre |
+| **🚨 CrimenAI Colombia** 🔒 privado | Dashboard táctico de criminalidad con datos reales de datos.gov.co/SIEDCO — 1.122 municipios, drill-down por comuna, histórico 2003–2026. | JS · Leaflet · TopoJSON · GitHub Actions |
 
 ### 🏭 Producción & clientes reales
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[🚦 Semáforo Digital](https://github.com/Angelsistemas7/radar-digital)** — *en producción, [semaforodigital.com](https://semaforodigital.com)* | Autodiagnóstico de madurez digital en 4 dimensiones con resultado cualitativo por colores y panel administrador. Desplegado en VPS propio con CI/CD. | Next.js 16 · Supabase · Docker · Nginx |
-| **🛡️ SafeWatch (Ecopetrol PPE)** | Sistema de monitoreo de Equipos de Protección Personal mediante visión computacional (YOLO): detección y alertas en tiempo real cuando un trabajador entra a zona sin EPP. Proyecto industrial para Ecopetrol. | FastAPI · Ultralytics YOLO · Next.js · Docker |
-| **💰 Cobros Seguros** | App móvil de gestión de cartera de microcrédito para cobradores de campo en Colombia: rutas GPS, modo offline, comprobantes por WhatsApp, biometría, cumplimiento Habeas Data. | Expo/React Native · Firebase · Zustand |
-| **🚌 TransCar** | App para el sistema de transporte TransCaribe (Cartagena): mapa en vivo, ETAs, chatbot de rutas con IA, consulta de saldo. | Flutter · Firebase · Mapbox · GPT-4.1 |
-| **📊 Radar Digital / Conversion** | Diagnóstico de madurez digital en 8 dimensiones con radar interactivo y plan de acción por fases. | Next.js 16 · React 19 · Supabase |
-| **📋 Qubi** | Gestor de equipos y tareas (tipo Notion): tableros, calendario, registro de horas, páginas colaborativas en tiempo real. Autoalojado. | Next.js · Prisma · PostgreSQL · Redis · Yjs |
+| **[🚦 Semáforo Digital](https://github.com/Angelsistemas7/radar-digital)** 🌐 público — *en producción, [semaforodigital.com](https://semaforodigital.com)* | Autodiagnóstico de madurez digital en 4 dimensiones con resultado cualitativo por colores y panel administrador. Desplegado en VPS propio con CI/CD. | Next.js 16 · Supabase · Docker · Nginx |
+| **🛡️ SafeWatch (Ecopetrol PPE)** 🔒 privado (local) | Sistema de monitoreo de Equipos de Protección Personal mediante visión computacional (YOLO): detección y alertas en tiempo real cuando un trabajador entra a zona sin EPP. Proyecto industrial para Ecopetrol. | FastAPI · Ultralytics YOLO · Next.js · Docker |
+| **💰 Cobros Seguros** 🔒 privado | App móvil de gestión de cartera de microcrédito para cobradores de campo en Colombia: rutas GPS, modo offline, comprobantes por WhatsApp, biometría, cumplimiento Habeas Data. | Expo/React Native · Firebase · Zustand |
+| **🚌 TransCar** 🔒 privado (local) | App para el sistema de transporte TransCaribe (Cartagena): mapa en vivo, ETAs, chatbot de rutas con IA, consulta de saldo. | Flutter · Firebase · Mapbox · GPT-4.1 |
+| **[📊 Radar Digital / Conversion](https://github.com/Angelsistemas7/conversion)** 🌐 público | Diagnóstico de madurez digital en 8 dimensiones con radar interactivo y plan de acción por fases. | Next.js 16 · React 19 · Supabase |
+| **📋 Qubi** 🔒 privado (local) | Gestor de equipos y tareas (tipo Notion): tableros, calendario, registro de horas, páginas colaborativas en tiempo real. Autoalojado. | Next.js · Prisma · PostgreSQL · Redis · Yjs |
 
 ### 🤖 IA, herramientas & juegos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **💜 VFriend** | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
-| **⚡ LocalPower** | Servidor MCP de alto rendimiento para Godot Engine 4.x: permite a agentes de IA controlar proyectos Godot en vivo (~20ms por operación) vía WebSocket. | Python |
-| **🏰 Albion World** | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
-| **🧠 Alicization** | Sistema experimental de agentes con mente propia (personalidad OCEAN, emociones, memoria, cognición) donde el comportamiento social emerge sin scriptearse. | Python |
-| **⚽ FutureSport** | Motor de predicciones deportivas con modelo propio (Dixon-Coles + Elo, decaimiento temporal, xG, fatiga, clima, lesiones, valor de plantilla), 26+ sesiones de desarrollo iterativo, **340+ tests**, backtesting real contra datos históricos de 8 ligas, y dashboard con armador de apuestas, comparador y auditoría pública de aciertos por mercado. Clean Architecture + DDD. | Python · Dixon-Coles/Elo · sqlite · scraping (ESPN/Understat/Transfermarkt) |
+| **💜 VFriend** 🔒 privado | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
+| **⚡ LocalPower** 🔒 privado | Servidor MCP de alto rendimiento para Godot Engine 4.x: permite a agentes de IA controlar proyectos Godot en vivo (~20ms por operación) vía WebSocket. | Python |
+| **🏰 Albion World** 🔒 privado | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
+| **🧠 Alicization** 🔒 privado (local) | Sistema experimental de agentes con mente propia (personalidad OCEAN, emociones, memoria, cognición) donde el comportamiento social emerge sin scriptearse. | Python |
+| **⚽ FutureSport** 🔒 privado | Motor de predicciones deportivas con modelo propio (Dixon-Coles + Elo, decaimiento temporal, xG, fatiga, clima, lesiones, valor de plantilla), 26+ sesiones de desarrollo iterativo, **340+ tests**, backtesting real contra datos históricos de 8 ligas, y dashboard con armador de apuestas, comparador y auditoría pública de aciertos por mercado. Clean Architecture + DDD. | Python · Dixon-Coles/Elo · sqlite · scraping (ESPN/Understat/Transfermarkt) |
 
 ### 💪 Fitness, finanzas & utilidades
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **🏋️ KingGYM** | App de entrenamiento (fuerza + running) con gamificación y comunidad fitness. | Flutter · Supabase |
-| **💳 WalletIA** | Finanzas personales con asistente de IA integrado, diseño minimalista. | Flutter · Riverpod |
-| **🍔 FastFood** | Plataforma white-label multi-negocio de fidelización y pedidos para restaurantes en Colombia: un solo sistema sirve a varios negocios independientes (marca, menú y datos aislados por cliente), acceso por QR sin login (PWA), niveles de fidelización, tarjeta de sellos, panel de staff y notificaciones de pedido por WhatsApp (API oficial de Meta). | Next.js 16 · Supabase (Postgres/RLS/Realtime) · Tailwind |
-| **📱 PhoneFarm** | Panel de control de una flota de dispositivos Android: video en vivo, control remoto, automatización multi-dispositivo. | Node.js · Express · WebSocket · React |
-| **🔒 FrontiersOFF** | Validador de proxies gratuitos: verifica que respondan de verdad y descarta los que manipulan tráfico. | Python · GitHub Actions |
+| **🏋️ KingGYM** 🔒 privado | App de entrenamiento (fuerza + running) con gamificación y comunidad fitness. | Flutter · Supabase |
+| **💳 WalletIA** 🔒 privado | Finanzas personales con asistente de IA integrado, diseño minimalista. | Flutter · Riverpod |
+| **🍔 FastFood** 🔒 privado | Plataforma white-label multi-negocio de fidelización y pedidos para restaurantes en Colombia: un solo sistema sirve a varios negocios independientes (marca, menú y datos aislados por cliente), acceso por QR sin login (PWA), niveles de fidelización, tarjeta de sellos, panel de staff y notificaciones de pedido por WhatsApp (API oficial de Meta). | Next.js 16 · Supabase (Postgres/RLS/Realtime) · Tailwind |
+| **📱 PhoneFarm** 🔒 privado (local) | Panel de control de una flota de dispositivos Android: video en vivo, control remoto, automatización multi-dispositivo. | Node.js · Express · WebSocket · React |
+| **🔒 FrontiersOFF** 🔒 privado | Validador de proxies gratuitos: verifica que respondan de verdad y descarta los que manipulan tráfico. | Python · GitHub Actions |
 
 <br/>
 
