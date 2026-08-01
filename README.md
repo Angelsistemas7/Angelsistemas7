@@ -126,6 +126,6 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dayialfonsoreales%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelacero_sistemas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-angelacero_sistemas%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelacero_sistemas@hotmail.com)
 
 </div>
