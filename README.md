@@ -91,7 +91,7 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **💜 VFriend (Yuko)** | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
+| **💜 VFriend ** | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
 | **⚡ LocalPower** | Servidor MCP de alto rendimiento para Godot Engine 4.x: permite a agentes de IA controlar proyectos Godot en vivo (~20ms por operación) vía WebSocket. | Python |
 | **🏰 Albion World** | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
 | **🧠 Alicization** | Sistema experimental de agentes con mente propia (personalidad OCEAN, emociones, memoria, cognición) donde el comportamiento social emerge sin scriptearse. | Python |
