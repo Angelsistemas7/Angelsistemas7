@@ -58,6 +58,16 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 
 <br/>
 
+## 🏢 SentraLabs
+
+<div align="center">
+
+Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desarrollo de software donde diseñamos, construimos y lanzamos productos digitales junto a mi equipo.
+
+</div>
+
+<br/>
+
 ## 🚀 Proyectos destacados
 
 ### 🧭 Open source
@@ -66,13 +76,15 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 |---|---|---|
 | **[🗺️ Error Atlas](https://github.com/Angelsistemas7/error-atlas)** 🌐 público | Wikipedia técnica de 22 errores de desarrollo curados a mano: causas y soluciones ordenadas por probabilidad, issues/PRs reales de GitHub vinculados en vivo, **servidor MCP** para consultarlo desde Claude/Cursor, CLI propio, y un bot semanal (GitHub Actions) que propone nuevas fuentes vía PR — nunca automerge. En construcción activa, en PRs pequeños y documentados. | Next.js 16 · TypeScript · Tailwind · Fuse.js · MCP |
 | **[🌌 DevAtlas](https://github.com/Angelsistemas7/devatlas)** 🌐 público | Infraestructura abierta de conocimiento para developers: un formato compartido (`AtlasEntry`) para que distintos "atlas" temáticos (errores, vulnerabilidades, arquitectura...) se construyan sobre la misma base. Error Atlas es el primer módulo real. | Diseño de esquema · Markdown + JSON |
+| **[🐛 Vuln Atlas](https://github.com/Angelsistemas7/vuln-atlas)** 🌐 público | Catálogo curado de vulnerabilidades reales — segundo módulo de DevAtlas, sobre el mismo formato compartido (`AtlasEntry`). | Next.js · TypeScript · Markdown + JSON |
+| **[📦 Package Atlas](https://github.com/Angelsistemas7/package-atlas)** 🌐 público | Catálogo curado de deprecaciones y fin de soporte de paquetes reales — tercer módulo de DevAtlas. | Next.js · TypeScript · Markdown + JSON |
 
 ### 🌍 Impacto social
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **[🆘 El Mundo Te Busca](https://github.com/Angelsistemas7/ElMundo-Te-Busca)** 🌐 público | Plataforma ciudadana sin fines de lucro para localizar personas desaparecidas y coordinar ayuda tras el terremoto de Venezuela 2026. Registro de personas, búsqueda avanzada, verificación anti-abuso, puntos de ayuda. | Next.js 15 · Supabase · Tailwind |
-| **🗳️ Ojo al Voto (SafeVote)** 🔒 privado (local) | Auditoría ciudadana de las actas E-14 de la elección presidencial de Colombia 2026: descarga las actas públicas, las lee con IA (Qwen2.5-VL) y señala inconsistencias aritméticas para revisión ciudadana, sobre **121.041 actas reales**. | Python · IA/OCR · Next.js · NestJS · PostgreSQL |
+| **[🗳️ Ojo al Voto (SafeVote)](https://github.com/Manuuell/ojoalvoto)** 🌐 público | Auditoría ciudadana de las actas E-14 de la elección presidencial de Colombia 2026: descarga las actas públicas, las lee con IA (Qwen2.5-VL) y señala inconsistencias aritméticas para revisión ciudadana, sobre **121.041 actas reales**. | Python · IA/OCR · Next.js · NestJS · PostgreSQL |
 | **🐾 AdoptME** 🔒 privado (local) | App social de adopción y mascotas perdidas: mapa en vivo, negocios/veterinarias, gamificación, sistema de puntos verificado por compras reales (QR de un solo uso + GPS), grupos y feed social. | Expo / React Native · Firebase · MapLibre |
 | **🚨 CrimenAI Colombia** 🔒 privado | Dashboard táctico de criminalidad con datos reales de datos.gov.co/SIEDCO — 1.122 municipios, drill-down por comuna, histórico 2003–2026. | JS · Leaflet · TopoJSON · GitHub Actions |
 
@@ -85,7 +97,10 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 | **💰 Cobros Seguros** 🔒 privado | App móvil de gestión de cartera de microcrédito para cobradores de campo en Colombia: rutas GPS, modo offline, comprobantes por WhatsApp, biometría, cumplimiento Habeas Data. | Expo/React Native · Firebase · Zustand |
 | **🚌 TransCar** 🔒 privado (local) | App para el sistema de transporte TransCaribe (Cartagena): mapa en vivo, ETAs, chatbot de rutas con IA, consulta de saldo. | Flutter · Firebase · Mapbox · GPT-4.1 |
 | **[📊 Radar Digital / Conversion](https://github.com/Angelsistemas7/conversion)** 🌐 público | Diagnóstico de madurez digital en 8 dimensiones con radar interactivo y plan de acción por fases. | Next.js 16 · React 19 · Supabase |
-| **📋 Qubi** 🔒 privado (local) | Gestor de equipos y tareas (tipo Notion): tableros, calendario, registro de horas, páginas colaborativas en tiempo real. Autoalojado. | Next.js · Prisma · PostgreSQL · Redis · Yjs |
+| **[📋 Qubi](https://github.com/Manuuell/Qubi)** 🌐 público | Gestor de equipos y tareas (tipo Notion): tableros, calendario, registro de horas, páginas colaborativas en tiempo real. Autoalojado. | Next.js · Prisma · PostgreSQL · Redis · Yjs |
+| **🤖 Tooli Chatbot** 🔒 privado | Plataforma de chatbot para WhatsApp de la Universidad Tecnológica de Bolívar (UTB): turnos y pagos, encuestas de investigación, captación de prospectos de posgrado — arquitectura de adaptadores sobre Meta WhatsApp Cloud API y Evolution API, con handoff a Chatwoot. | Node.js · Express · TypeScript · Chatwoot |
+| **[🚗 SentraWash](https://github.com/Manuuell/SentraWash)** 🌐 público — *en producción* | SaaS multi-tenant para gestión de lavaderos de vehículos: escaneo de placa, foto del vehículo y tablero operativo en tiempo real. App móvil + API REST con multi-tenancy real. | Flutter · NestJS · Multi-tenancy (RLS) |
+| **[🏢 Malecón Residences](https://github.com/jerdiaz/malecon-residences)** 🌐 público — *colaboración* | Landing inmersiva para residencias de lujo frente al mar en Cartagena de Indias: scroll-snap a pantalla completa, contadores animados, estética minimalista oscura. | Next.js 15 · TypeScript · Tailwind |
 
 ### 🤖 IA, herramientas & juegos
 
@@ -96,6 +111,7 @@ Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas c
 | **🏰 Albion World** 🔒 privado | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
 | **🧠 Alicization** 🔒 privado (local) | Sistema experimental de agentes con mente propia (personalidad OCEAN, emociones, memoria, cognición) donde el comportamiento social emerge sin scriptearse. | Python |
 | **⚽ FutureSport** 🔒 privado | Motor de predicciones deportivas con modelo propio (Dixon-Coles + Elo, decaimiento temporal, xG, fatiga, clima, lesiones, valor de plantilla), 26+ sesiones de desarrollo iterativo, **340+ tests**, backtesting real contra datos históricos de 8 ligas, y dashboard con armador de apuestas, comparador y auditoría pública de aciertos por mercado. Clean Architecture + DDD. | Python · Dixon-Coles/Elo · sqlite · scraping (ESPN/Understat/Transfermarkt) |
+| **📝 devlog** 🔒 privado | CLI que convierte el historial de commits de un repo en un changelog legible, agrupado por [Conventional Commits](https://www.conventionalcommits.org/). Incluye *"the gardener"*: un mantenedor autónomo que corre por GitHub Actions y aplica lint, actualiza dependencias y coverage por su cuenta, dejando un log auditable de cada cambio real. | Python · Ruff · GitHub Actions |
 
 ### 💪 Fitness, finanzas & utilidades
 
