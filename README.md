@@ -74,7 +74,7 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 - 🌱 **Nexus Rural 2026:** actualmente entre los 10 mejores proyectos.
 - 🎓 **Becas:** *Becas con Corazón* de Ecopetrol (universidad), beca Trend Micro en ciberseguridad, beca ICETEX en formación de software y beca en el colegio.
 - 🎯 **Proyecto de grado:** chatbot de WhatsApp *Tooli* para la UTB — los aliados del proyecto lo aprobaron y se lo van a quedar.
-- 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · CrimenAI con +530.000 hechos de 2026 en 1.123 municipios · Albion World con 9.638 ítems × 8 ciudades × 3 regiones · Tooli App con 2.200+ pruebas automatizadas.
+- 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · CrimenAI con 18 países y +530.000 hechos de 2026 solo en Colombia · Albion World con 9.638 ítems × 8 ciudades × 3 regiones · Tooli App con 2.200+ pruebas automatizadas.
 
 <br/>
 
@@ -98,7 +98,7 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 | **[🗳️ Ojo al Voto (SafeVote)](https://github.com/Manuuell/ojoalvoto)** 🌐 público | Auditoría ciudadana de las actas E-14 de la elección presidencial de Colombia 2026: descarga las actas públicas, las lee con IA (Qwen2.5-VL) y señala inconsistencias aritméticas para revisión ciudadana, sobre **121.041 actas reales**. | Python · IA/OCR · Next.js · NestJS · PostgreSQL |
 | **[🐾 AdoptME](https://github.com/Angelsistemas7/AdoptME)** 🔒 privado | App social de adopción y mascotas perdidas: mapa en vivo, negocios/veterinarias, gamificación, sistema de puntos verificado por compras reales (QR de un solo uso + GPS), grupos y feed social. | Expo / React Native · Firebase · MapLibre |
 | **🌾 Campo+** 🔒 privado | App de gestión agropecuaria *offline-first* para usarse en campo sin señal, con cuatro roles (campesino, trabajador, comprador y transportista): cultivos, gastos por hectárea, rentabilidad y exportación a CSV. Probada en Android real. | Flutter · Cupertino |
-| **🚨 CrimenAI Colombia** 🔒 privado | Dashboard táctico de criminalidad de **Colombia** con datos reales de Policía (SIEDCO), Fiscalía, Medicina Legal y DANE: **1.123 municipios**, 33 departamentos, 13 tipos de delito, histórico 2003–2026 y **+530.000 hechos solo en 2026**. Un scraper en GitHub Actions lo actualiza cada 6 h. | JS · Leaflet · TopoJSON · GitHub Actions |
+| **🚨 CrimenAI** 🔒 privado | Observatorio táctico de criminalidad país por país con datos reales y **varias fuentes oficiales por país**: **18 países activos** (17 de América + Australia), mapas por país, estado y municipio. Colombia es el más completo: **1.123 municipios**, 13 tipos de delito (2003–2026) y **+530.000 hechos solo en 2026** (Policía, Fiscalía, Medicina Legal, DANE), con scraper en GitHub Actions cada 6 h. | JS · Leaflet · TopoJSON · GitHub Actions |
 
 ### 🏭 Producción & clientes reales
 
