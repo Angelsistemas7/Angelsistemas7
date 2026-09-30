@@ -10,7 +10,7 @@
 
 ### 👋 Sobre mí
 
-Desarrollador full-stack construyendo desde apps móviles y web hasta sistemas con visión por computador e IA. Me muevo cómodo en todo el stack: frontend, backend, bases de datos, infraestructura y modelos de ML/DL. También tengo formación en ciberseguridad (Blue Team) con certificaciones de **Trend Micro** y **AWS**. Gran parte de mis proyectos nacen de problemas reales — transporte público, seguridad industrial, transparencia electoral, personas desaparecidas — no solo ejercicios técnicos.
+Estudiante de Ingeniería de Sistemas (UTB, 9.º semestre) y desarrollador full-stack construyendo desde apps móviles y web hasta sistemas con visión por computador e IA. Me muevo cómodo en todo el stack: frontend, backend, bases de datos, infraestructura y modelos de ML/DL. También tengo formación en ciberseguridad (Blue Team) con certificaciones de **Trend Micro** y **AWS**. Gran parte de mis proyectos nacen de problemas reales — transporte público, seguridad industrial, restaurantes, transparencia electoral, personas desaparecidas — no solo ejercicios técnicos. Diseño y opero mi propio sistema de orquestación multi-agente de IA para acelerar el desarrollo.
 
 <br/>
 
@@ -68,6 +68,16 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 
 <br/>
 
+## 🏆 Logros y reconocimientos
+
+- 🥇 **5 hackathons ganados:** MinTIC 2022 · MinTIC 2023 · Trend Micro 2023 · Talento Tech (MinTIC) 2024 · Hackathon 2026 con Ecopetrol, la UTB, el SENA y la Alcaldía.
+- 🌱 **Nexus Rural 2026:** actualmente entre los 10 mejores proyectos.
+- 🎓 **Becas:** *Becas con Corazón* de Ecopetrol (universidad), beca Trend Micro en ciberseguridad, beca ICETEX en formación de software y beca en el colegio.
+- 🎯 **Proyecto de grado:** chatbot de WhatsApp *Tooli* para la UTB — los aliados del proyecto lo aprobaron y se lo van a quedar.
+- 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · Tooli App con 2.200+ pruebas automatizadas.
+
+<br/>
+
 ## 🚀 Proyectos destacados
 
 ### 🧭 Open source
@@ -83,9 +93,11 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[🆘 El Mundo Te Busca](https://github.com/Angelsistemas7/ElMundo-Te-Busca)** 🌐 público | Plataforma ciudadana sin fines de lucro para localizar personas desaparecidas y coordinar ayuda tras el terremoto de Venezuela 2026. Registro de personas, búsqueda avanzada, verificación anti-abuso, puntos de ayuda. | Next.js 15 · Supabase · Tailwind |
+| **[🆘 El Mundo Te Busca](https://github.com/Angelsistemas7/ElMundo-Te-Busca)** 🌐 público — *en producción, [elmundotebusca.com](https://elmundotebusca.com)* | Plataforma ciudadana sin fines de lucro para localizar personas desaparecidas y coordinar ayuda tras el terremoto de Venezuela 2026. Registro de personas, búsqueda avanzada, verificación anti-abuso, puntos de ayuda. Incluye app móvil en Flutter. | Next.js 15 · Flutter · Supabase · Tailwind |
+| **[📡 HelpSearch](https://github.com/Angelsistemas7/HelpSearch)** 🌐 público | Red de auxilio SOS 100% offline por Bluetooth (mesh BLE) para emergencias y terremotos, con app propia de diseño tipo iOS. | Bluetooth LE · Mobile |
 | **[🗳️ Ojo al Voto (SafeVote)](https://github.com/Manuuell/ojoalvoto)** 🌐 público | Auditoría ciudadana de las actas E-14 de la elección presidencial de Colombia 2026: descarga las actas públicas, las lee con IA (Qwen2.5-VL) y señala inconsistencias aritméticas para revisión ciudadana, sobre **121.041 actas reales**. | Python · IA/OCR · Next.js · NestJS · PostgreSQL |
-| **🐾 AdoptME** 🔒 privado (local) | App social de adopción y mascotas perdidas: mapa en vivo, negocios/veterinarias, gamificación, sistema de puntos verificado por compras reales (QR de un solo uso + GPS), grupos y feed social. | Expo / React Native · Firebase · MapLibre |
+| **[🐾 AdoptME](https://github.com/Angelsistemas7/AdoptME)** 🔒 privado | App social de adopción y mascotas perdidas: mapa en vivo, negocios/veterinarias, gamificación, sistema de puntos verificado por compras reales (QR de un solo uso + GPS), grupos y feed social. | Expo / React Native · Firebase · MapLibre |
+| **🌾 Campo+** 🔒 privado | App de gestión agropecuaria *offline-first* para usarse en campo sin señal, con cuatro roles (campesino, trabajador, comprador y transportista): cultivos, gastos por hectárea, rentabilidad y exportación a CSV. Probada en Android real. | Flutter · Cupertino |
 | **🚨 CrimenAI Colombia** 🔒 privado | Dashboard táctico de criminalidad con datos reales de datos.gov.co/SIEDCO — 1.122 municipios, drill-down por comuna, histórico 2003–2026. | JS · Leaflet · TopoJSON · GitHub Actions |
 
 ### 🏭 Producción & clientes reales
@@ -95,11 +107,14 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 | **[🚦 Semáforo Digital](https://github.com/Angelsistemas7/radar-digital)** 🌐 público — *en producción, [semaforodigital.com](https://semaforodigital.com)* | Autodiagnóstico de madurez digital en 4 dimensiones con resultado cualitativo por colores y panel administrador. Desplegado en VPS propio con CI/CD. | Next.js 16 · Supabase · Docker · Nginx |
 | **🛡️ SafeWatch (Ecopetrol PPE)** 🔒 privado (local) | Sistema de monitoreo de Equipos de Protección Personal mediante visión computacional (YOLO): detección y alertas en tiempo real cuando un trabajador entra a zona sin EPP. Proyecto industrial para Ecopetrol. | FastAPI · Ultralytics YOLO · Next.js · Docker |
 | **💰 Cobros Seguros** 🔒 privado | App móvil de gestión de cartera de microcrédito para cobradores de campo en Colombia: rutas GPS, modo offline, comprobantes por WhatsApp, biometría, cumplimiento Habeas Data. | Expo/React Native · Firebase · Zustand |
-| **🚌 TransCar** 🔒 privado (local) | App para el sistema de transporte TransCaribe (Cartagena): mapa en vivo, ETAs, chatbot de rutas con IA, consulta de saldo. | Flutter · Firebase · Mapbox · GPT-4.1 |
+| **🚌 TransCar** 🔒 privado — *[en Google Play](https://play.google.com/store/apps/details?id=com.transcar.app), 500 usuarios* | App para el sistema de transporte masivo TransCaribe (Cartagena): mapa en vivo, ETAs, chatbot de rutas con IA, consulta de saldo. | Flutter · Firebase · Mapbox · GPT-4.1 |
+| **🎓 Tooli — App Universidad del Sinú** 🔒 privado (local) | Asistente estudiantil de Unisinú: notas, horario, matrícula, noticias institucionales, carné digital con QR y tickets de soporte al Centro de Servicios. Arquitectura pensada para replicarse en otras universidades y **2.200+ pruebas automatizadas**. | Flutter · Provider · API REST |
 | **[📊 Radar Digital / Conversion](https://github.com/Angelsistemas7/conversion)** 🌐 público | Diagnóstico de madurez digital en 8 dimensiones con radar interactivo y plan de acción por fases. | Next.js 16 · React 19 · Supabase |
+| **🧩 Renova Energía · BarrioShop · SafeLife** 🔒 privado | **Renova Energía:** gestión de tareas self-hosted con chat en tiempo real y recordatorios por WhatsApp para instaladores de paneles solares. **BarrioShop:** CRM de pedidos por WhatsApp para tiendas de barrio sobre la API oficial de Meta. **SafeLife:** SaaS multi-tenant de gestión clínica con agendamiento por WhatsApp y portal de paciente. | Fastify · FastAPI · Next.js · Supabase |
 | **[📋 Qubi](https://github.com/Manuuell/Qubi)** 🌐 público | Gestor de equipos y tareas (tipo Notion): tableros, calendario, registro de horas, páginas colaborativas en tiempo real. Autoalojado. | Next.js · Prisma · PostgreSQL · Redis · Yjs |
-| **🤖 Tooli Chatbot** 🔒 privado | Plataforma de chatbot para WhatsApp de la Universidad Tecnológica de Bolívar (UTB): turnos y pagos, encuestas de investigación, captación de prospectos de posgrado — arquitectura de adaptadores sobre Meta WhatsApp Cloud API y Evolution API, con handoff a Chatwoot. | Node.js · Express · TypeScript · Chatwoot |
+| **🤖 Tooli Chatbot** 🔒 privado — *proyecto de grado* | Plataforma de chatbot para WhatsApp de la Universidad Tecnológica de Bolívar (UTB), aprobada por los aliados del proyecto, que se la van a quedar: turnos y pagos, encuestas de investigación, captación de prospectos de posgrado — arquitectura de adaptadores sobre Meta WhatsApp Cloud API y Evolution API, con handoff a Chatwoot. | Node.js · Express · TypeScript · Chatwoot |
 | **[🚗 SentraWash](https://github.com/Manuuell/SentraWash)** 🌐 público — *en producción* | SaaS multi-tenant para gestión de lavaderos de vehículos: escaneo de placa, foto del vehículo y tablero operativo en tiempo real. App móvil + API REST con multi-tenancy real. | Flutter · NestJS · Multi-tenancy (RLS) |
+| **🌐 SentraLabs.co** · **SOLINAG** | Sitios corporativos a medida: el sitio de SentraLabs ([sentralabs.co](https://sentralabs.co)) y el sitio de SOLINAG SAS (soluciones de ingeniería para industria y agro). | Next.js 16 · Framer Motion · HTML/CSS/JS |
 | **[🏢 Malecón Residences](https://github.com/jerdiaz/malecon-residences)** 🌐 público — *colaboración* | Landing inmersiva para residencias de lujo frente al mar en Cartagena de Indias: scroll-snap a pantalla completa, contadores animados, estética minimalista oscura. | Next.js 15 · TypeScript · Tailwind |
 
 ### 🤖 IA, herramientas & juegos
@@ -108,7 +123,8 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 |---|---|---|
 | **💜 VFriend** 🔒 privado | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
 | **⚡ LocalPower** 🔒 privado | Servidor MCP de alto rendimiento para Godot Engine 4.x: permite a agentes de IA controlar proyectos Godot en vivo (~20ms por operación) vía WebSocket. | Python |
-| **🏰 Albion World** 🔒 privado | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
+| **[🏰 Albion World](https://github.com/Angelsistemas7/AlbionWorld)** 🔒 privado | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
+| **📈 StockAI** 🔒 privado | Plataforma de inteligencia bursátil con asistencia de IA. | Expo · Supabase |
 | **🧠 Alicization** 🔒 privado (local) | Sistema experimental de agentes con mente propia (personalidad OCEAN, emociones, memoria, cognición) donde el comportamiento social emerge sin scriptearse. | Python |
 | **⚽ FutureSport** 🔒 privado | Motor de predicciones deportivas con modelo propio (Dixon-Coles + Elo, decaimiento temporal, xG, fatiga, clima, lesiones, valor de plantilla), 26+ sesiones de desarrollo iterativo, **340+ tests**, backtesting real contra datos históricos de 8 ligas, y dashboard con armador de apuestas, comparador y auditoría pública de aciertos por mercado. Clean Architecture + DDD. | Python · Dixon-Coles/Elo · sqlite · scraping (ESPN/Understat/Transfermarkt) |
 | **📝 devlog** 🔒 privado | CLI que convierte el historial de commits de un repo en un changelog legible, agrupado por [Conventional Commits](https://www.conventionalcommits.org/). Incluye *"the gardener"*: un mantenedor autónomo que corre por GitHub Actions y aplica lint, actualiza dependencias y coverage por su cuenta, dejando un log auditable de cada cambio real. | Python · Ruff · GitHub Actions |
@@ -119,7 +135,7 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 |---|---|---|
 | **🏋️ KingGYM** 🔒 privado | App de entrenamiento (fuerza + running) con gamificación y comunidad fitness. | Flutter · Supabase |
 | **💳 WalletIA** 🔒 privado | Finanzas personales con asistente de IA integrado, diseño minimalista. | Flutter · Riverpod |
-| **🍔 FastFood** 🔒 privado | Plataforma white-label multi-negocio de fidelización y pedidos para restaurantes en Colombia: un solo sistema sirve a varios negocios independientes (marca, menú y datos aislados por cliente), acceso por QR sin login (PWA), niveles de fidelización, tarjeta de sellos, panel de staff y notificaciones de pedido por WhatsApp (API oficial de Meta). | Next.js 16 · Supabase (Postgres/RLS/Realtime) · Tailwind |
+| **🍔 FastFood** 🔒 privado — *5 restaurantes ya la usan* | Plataforma white-label multi-negocio de fidelización y pedidos para restaurantes en Colombia: un solo sistema sirve a varios negocios independientes (marca, menú y datos aislados por cliente), acceso por QR sin login (PWA), niveles de fidelización, tarjeta de sellos, panel de staff y notificaciones de pedido por WhatsApp (API oficial de Meta). | Next.js 16 · Supabase (Postgres/RLS/Realtime) · Tailwind |
 | **📱 PhoneFarm** 🔒 privado (local) | Panel de control de una flota de dispositivos Android: video en vivo, control remoto, automatización multi-dispositivo. | Node.js · Express · WebSocket · React |
 | **🔒 FrontiersOFF** 🔒 privado | Validador de proxies gratuitos: verifica que respondan de verdad y descarta los que manipulan tráfico. | Python · GitHub Actions |
 
