@@ -62,7 +62,7 @@ Estudiante de Ingeniería de Sistemas (UTB, 9.º semestre) y desarrollador full-
 
 <div align="center">
 
-Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desarrollo de software donde diseñamos, construimos y lanzamos productos digitales junto a mi equipo.
+Desarrollo productos digitales junto a mi equipo bajo el nombre **[SentraLabs](https://sentralabs.co)**, un proyecto de estudio de software en construcción.
 
 </div>
 
@@ -71,7 +71,7 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 ## 🏆 Logros y reconocimientos
 
 - 🥇 **5 hackathons y concursos de proyectos ganados:** mejor proyecto de un curso de Oracle 2022 · MinTIC 2023 · Trend Micro 2023 · mejor proyecto de análisis de datos, Talento Tech 2024 · Hackathon 2026 con Ecopetrol, la UTB, el SENA y la Alcaldía.
-- 🌱 **Nexus Rural 2026:** actualmente entre los 10 mejores proyectos.
+- 🌱 **Nexus Rural 2026:** actualmente entre los 10 mejores proyectos (el programa cierra en octubre).
 - 🎓 **Becas:** *Becas con Corazón* de Ecopetrol (universidad), beca Trend Micro en ciberseguridad, beca ICETEX en formación de software y beca en el colegio.
 - 🎯 **Proyecto de grado:** chatbot de WhatsApp *Tooli* para la UTB — los aliados del proyecto lo aprobaron y se lo van a quedar.
 - 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · CrimenAI con 18 países y +530.000 hechos de 2026 solo en Colombia · Albion World con 9.638 ítems × 8 ciudades × 3 regiones · App móvil de la Universidad del Sinú con 2.200+ pruebas automatizadas.
