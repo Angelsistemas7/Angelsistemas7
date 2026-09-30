@@ -74,7 +74,7 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 - 🌱 **Nexus Rural 2026:** actualmente entre los 10 mejores proyectos.
 - 🎓 **Becas:** *Becas con Corazón* de Ecopetrol (universidad), beca Trend Micro en ciberseguridad, beca ICETEX en formación de software y beca en el colegio.
 - 🎯 **Proyecto de grado:** chatbot de WhatsApp *Tooli* para la UTB — los aliados del proyecto lo aprobaron y se lo van a quedar.
-- 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · Tooli App con 2.200+ pruebas automatizadas.
+- 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · CrimenAI con +530.000 hechos de 2026 en 1.123 municipios · Albion World con 9.638 ítems × 8 ciudades × 3 regiones · Tooli App con 2.200+ pruebas automatizadas.
 
 <br/>
 
@@ -98,7 +98,7 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 | **[🗳️ Ojo al Voto (SafeVote)](https://github.com/Manuuell/ojoalvoto)** 🌐 público | Auditoría ciudadana de las actas E-14 de la elección presidencial de Colombia 2026: descarga las actas públicas, las lee con IA (Qwen2.5-VL) y señala inconsistencias aritméticas para revisión ciudadana, sobre **121.041 actas reales**. | Python · IA/OCR · Next.js · NestJS · PostgreSQL |
 | **[🐾 AdoptME](https://github.com/Angelsistemas7/AdoptME)** 🔒 privado | App social de adopción y mascotas perdidas: mapa en vivo, negocios/veterinarias, gamificación, sistema de puntos verificado por compras reales (QR de un solo uso + GPS), grupos y feed social. | Expo / React Native · Firebase · MapLibre |
 | **🌾 Campo+** 🔒 privado | App de gestión agropecuaria *offline-first* para usarse en campo sin señal, con cuatro roles (campesino, trabajador, comprador y transportista): cultivos, gastos por hectárea, rentabilidad y exportación a CSV. Probada en Android real. | Flutter · Cupertino |
-| **🚨 CrimenAI Colombia** 🔒 privado | Dashboard táctico de criminalidad con datos reales de datos.gov.co/SIEDCO — 1.122 municipios, drill-down por comuna, histórico 2003–2026. | JS · Leaflet · TopoJSON · GitHub Actions |
+| **🚨 CrimenAI Colombia** 🔒 privado | Dashboard táctico de criminalidad de **Colombia** con datos reales de Policía (SIEDCO), Fiscalía, Medicina Legal y DANE: **1.123 municipios**, 33 departamentos, 13 tipos de delito, histórico 2003–2026 y **+530.000 hechos solo en 2026**. Un scraper en GitHub Actions lo actualiza cada 6 h. | JS · Leaflet · TopoJSON · GitHub Actions |
 
 ### 🏭 Producción & clientes reales
 
@@ -123,7 +123,7 @@ Co-fundador de **[SentraLabs](https://sentralabs.co/#team)**, un estudio de desa
 |---|---|---|
 | **💜 VFriend** 🔒 privado | Compañera VTuber con IA para escritorio: cerebro híbrido local/nube, TTS, avatar VRM/Live2D, integración con Twitch/TikTok chat y salida a OBS. | Rust + Tauri · Three.js · LLMs |
 | **⚡ LocalPower** 🔒 privado | Servidor MCP de alto rendimiento para Godot Engine 4.x: permite a agentes de IA controlar proyectos Godot en vivo (~20ms por operación) vía WebSocket. | Python |
-| **[🏰 Albion World](https://github.com/Angelsistemas7/AlbionWorld)** 🔒 privado | Kit de herramientas para Albion Online: precios de mercado en tiempo real, calculadora de impuestos, crafteo y refinado. Multiplataforma. | Expo/React Native · Tauri |
+| **[🏰 Albion World](https://github.com/Angelsistemas7/AlbionWorld)** 🔒 privado | Kit de herramientas para Albion Online con pipelines de datos 24/7 sobre las **3 regiones del juego** (Américas, Asia, Europa): mercado completo cada 30 min (**9.638 ítems × 8 ciudades**), scraper de kills y batallas (~45 MB/día solo en Europa), historial de precios de hasta 370 días, y calculadoras de crafteo, refinado e impuestos. Multiplataforma. | Expo/React Native · Tauri |
 | **📈 StockAI** 🔒 privado | Plataforma de inteligencia bursátil con asistencia de IA. | Expo · Supabase |
 | **🧠 Alicization** 🔒 privado (local) | Sistema experimental de agentes con mente propia (personalidad OCEAN, emociones, memoria, cognición) donde el comportamiento social emerge sin scriptearse. | Python |
 | **⚽ FutureSport** 🔒 privado | Motor de predicciones deportivas con modelo propio (Dixon-Coles + Elo, decaimiento temporal, xG, fatiga, clima, lesiones, valor de plantilla), 26+ sesiones de desarrollo iterativo, **340+ tests**, backtesting real contra datos históricos de 8 ligas, y dashboard con armador de apuestas, comparador y auditoría pública de aciertos por mercado. Clean Architecture + DDD. | Python · Dixon-Coles/Elo · sqlite · scraping (ESPN/Understat/Transfermarkt) |
