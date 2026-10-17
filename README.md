@@ -71,10 +71,10 @@ Desarrollo productos digitales junto a mi equipo bajo el nombre **[SentraLabs](h
 ## 🏆 Logros y reconocimientos
 
 - 🥇 **5 hackathons y concursos de proyectos ganados:** mejor proyecto de un curso de Oracle 2022 · MinTIC 2023 · Trend Micro 2023 · mejor proyecto de análisis de datos, Talento Tech 2024 · Hackathon 2026 con Ecopetrol, la UTB, el SENA y la Alcaldía.
-- 🌱 **Nexus Rural 2026:** actualmente entre los 10 mejores proyectos (el programa cierra en octubre).
+- 🌱 **Nexus Rural 2026:** entre los 20 mejores proyectos del programa.
 - 🎓 **Becas:** *Becas con Corazón* de Ecopetrol (universidad), beca Trend Micro en ciberseguridad, beca ICETEX en formación de software y beca en el colegio.
 - 🎯 **Proyecto de grado:** chatbot de WhatsApp *Tooli* para la UTB — los aliados del proyecto lo aprobaron y se lo van a quedar.
-- 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · CrimenAI con 18 países y +530.000 hechos de 2026 solo en Colombia · Albion World con 9.638 ítems × 8 ciudades × 3 regiones · App móvil de la Universidad del Sinú con 2.200+ pruebas automatizadas.
+- 📈 **En números:** TransCar con 500 usuarios · FastFood con 5 restaurantes usándolo · Ojo al Voto sobre 121.041 actas reales · CrimenAI con 18 países y +530.000 hechos de 2026 solo en Colombia · Albion World con 9.638 ítems × 8 ciudades × 3 regiones · Tooli, apps para estudiantes de Unisinú y del Tecnológico Comfenalco, con 2.700+ pruebas automatizadas.
 
 <br/>
 
@@ -108,7 +108,7 @@ Desarrollo productos digitales junto a mi equipo bajo el nombre **[SentraLabs](h
 | **🛡️ SafeWatch (Ecopetrol PPE)** 🔒 privado (local) | Sistema de monitoreo de Equipos de Protección Personal mediante visión computacional (YOLO): detección y alertas en tiempo real cuando un trabajador entra a zona sin EPP. Proyecto industrial para Ecopetrol. | FastAPI · Ultralytics YOLO · Next.js · Docker |
 | **💰 Cobros Seguros** 🔒 privado | App móvil de gestión de cartera de microcrédito para cobradores de campo en Colombia: rutas GPS, modo offline, comprobantes por WhatsApp, biometría, cumplimiento Habeas Data. | Expo/React Native · Firebase · Zustand |
 | **🚌 TransCar** 🔒 privado — *[en Google Play](https://play.google.com/store/apps/details?id=com.transcar.app), 500 usuarios* | App para el sistema de transporte masivo TransCaribe (Cartagena): mapa en vivo, ETAs, chatbot de rutas con IA, consulta de saldo. | Flutter · Firebase · Mapbox · GPT-4.1 |
-| **🎓 App móvil — Universidad del Sinú** 🔒 privado (local) | Asistente estudiantil de Unisinú: notas, horario, matrícula, noticias institucionales, carné digital con QR y tickets de soporte al Centro de Servicios. Arquitectura pensada para replicarse en otras universidades y **2.200+ pruebas automatizadas**. | Flutter · Provider · API REST |
+| **🎓 Tooli — apps para universidades de Cartagena** 🔒 privado — *Unisinú en beta cerrada, Tecnológico Comfenalco en desarrollo* | Asistente estudiantil independiente (no oficial): aula virtual de Moodle dentro de la app (cursos, tareas, foros, calificaciones), horario, calculadora de notas por cortes, avisos de entregas y cierres, asistencia y widget de Android. **Un mismo código genera una app por institución** (marca, identificador, pesos de cortes, calendario y enlaces propios): Tooli Unisinú y Tooli Comfenalco. **2.700+ pruebas automatizadas**. | Flutter · Dart · Moodle Web Services · Android widgets |
 | **[📊 Radar Digital / Conversion](https://github.com/Angelsistemas7/conversion)** 🌐 público | Diagnóstico de madurez digital en 8 dimensiones con radar interactivo y plan de acción por fases. | Next.js 16 · React 19 · Supabase |
 | **🧩 Renova Energía · BarrioShop · SafeLife** 🔒 privado | **Renova Energía:** gestión de tareas self-hosted con chat en tiempo real y recordatorios por WhatsApp para instaladores de paneles solares. **BarrioShop:** CRM de pedidos por WhatsApp para tiendas de barrio sobre la API oficial de Meta. **SafeLife:** SaaS multi-tenant de gestión clínica con agendamiento por WhatsApp y portal de paciente. | Fastify · FastAPI · Next.js · Supabase |
 | **[📋 Qubi](https://github.com/Manuuell/Qubi)** 🌐 público | Gestor de equipos y tareas (tipo Notion): tableros, calendario, registro de horas, páginas colaborativas en tiempo real. Autoalojado. | Next.js · Prisma · PostgreSQL · Redis · Yjs |
